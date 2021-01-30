@@ -1,2 +1,2 @@
 # data_analysis
-Basically python, pandas, numpy, crawling
+Basic of python, pandas, numpy, crawling
